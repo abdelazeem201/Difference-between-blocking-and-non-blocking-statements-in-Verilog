@@ -96,6 +96,7 @@ And when you synthesize the above code the actual SISO of each stage output you 
 # BIBLIOGRAPHIC NOTES
 
 1- [Blocking and Nonblocking Assignment](https://www.youtube.com/watch?v=MsOTLTTE8sQ&list=PL-iIOnHwN7NXw01eBDR7wI8KzGK4mu8Sr&index=27&t=4s)
+
 2- Blocking and Non-blocking Assignments in Explicit and Implicit Style Verilog Synthesis by Mark ArnoldJerry,J CupalJames, andd D Shuler
 
 
